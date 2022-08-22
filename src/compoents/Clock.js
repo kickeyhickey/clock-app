@@ -24,7 +24,6 @@ export default class Clock extends Component {
         <h1>Local Time:</h1>
         <h2>{this.state.time}</h2>
      </div>
-      
     )
   }
 }
