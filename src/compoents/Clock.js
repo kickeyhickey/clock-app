@@ -20,7 +20,6 @@ export default class Clock extends Component {
 
   render() {
     return (
-      
      <div class='container'>
         <h1>Local Time:</h1>
         <h2>{this.state.time}</h2>
